@@ -1,10 +1,9 @@
-## 程序员的自我修养
+## 使用malloc函数进行系统内存申请案例
 
-一个记录阅读[《程序员的自我修养》](https://book.douban.com/subject/3652388/)的仓库；
 
-书籍**免费分享**下载：
 
--   https://www.90pan.com/o141940
+### 相关文章
 
-**每个章节分分支保存；**
+- Github Pages：[计算机内存综述](https://jasonkayzk.github.io/2021/03/25/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%86%85%E5%AD%98%E7%BB%BC%E8%BF%B0/)
+- 国内Gitee镜像：[计算机内存综述](https://jasonkay.gitee.io/2021/03/25/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%86%85%E5%AD%98%E7%BB%BC%E8%BF%B0/)
 
